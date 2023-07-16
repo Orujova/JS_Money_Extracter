@@ -1,0 +1,59 @@
+[
+  {
+    "money": 500,
+    "image": "images/500.jpg"
+  },
+
+  {
+    "money": 200,
+    "image": "images/200.jpg"
+  },
+  {
+    "money": 100,
+    "image": "images/100.jpg"
+  },
+  {
+    "money": 50,
+    "image": "images/50.jpg"
+  },
+  {
+    "money": 20,
+    "image": "images/20.jpg"
+  },
+  {
+    "money": 10,
+    "image": "images/10.jpg"
+  },
+  {
+    "money": 5,
+    "image": "images/5.jpg"
+  },
+  {
+    "money": 1,
+    "image": "images/1.jpg"
+  },
+  {
+    "money": 0.5,
+    "image": "images/0.5.png"
+  },
+  {
+    "money": 0.2,
+    "image": "images/0.2.png"
+  },
+  {
+    "money": 0.1,
+    "image": "images/01.png"
+  },
+  {
+    "money": 0.05,
+    "image": "images/0.05.png"
+  },
+  {
+    "money": 0.03,
+    "image": "images/0.03.png"
+  },
+  {
+    "money": 0.01,
+    "image": "images/0.01.png"
+  }
+]
